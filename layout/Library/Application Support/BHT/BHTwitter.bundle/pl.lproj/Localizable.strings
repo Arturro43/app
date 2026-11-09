@@ -65,6 +65,7 @@
 
 "COOL_KIDS_SECTION_HEADER_TITLE" = "Superowe ziomki";
 "SPECIAL_THANKS_SECTION_HEADER_TITLE" = "Specjalne podziękowania";
+"TRANSLATOR_PAGE_SECTION_HEADER_TITLE" = "Tłumacze";
 "FOLLOW_OFFICIAL_PAGE_SECTION_HEADER_TITLE" = "Obserwuj NeoFreeBird";
 
 /*General*/
@@ -75,8 +76,13 @@
 "NO_FOCUS_LOST_TITLE" = "Blokuj odświeżenie pozycji";
 "NO_FOCUS_LOST_DETAIL" = "Zabiera Twitterowi możliwość wykrywania, że przełączasz się na inną aplikację, dzięki czemu nie zgubisz miejsca w wątku.";
 
+"IPAD_SPLIT_VIEW_TITLE" = "Włącz podzielony widok na iPadzie";
+"IPAD_SPLIT_VIEW_DETAIL" = "Pozwala używać Twittera w podzielonym widoku na iPadzie (i iPhonie Duo). Po jednej stronie masz wtedy otwartego Tweeta, a po drugiej oś czasu.";
+
 "HIDE_TIMELINE_PROMPTS_TITLE" = "Bez zachęt na osi czasu";
 "HIDE_TIMELINE_PROMPTS_DETAIL" = "Usuwa banery takie jak np. \"Dodaj kontakty\".";
+"HIDE_VIDEOS_FOR_YOU_TITLE" = "Ukryj polecane filmy na osi czasu";
+"HIDE_VIDEOS_FOR_YOU_DETAIL" = "Ukrywa na osi czasu moduł z filmami polecanymi dla ciebie (\"Videos for you\").";
 
 "HIDE_BLOCKED_RETWEETS_TITLE" = "Ukryj zablokowane retweety";
 "HIDE_BLOCKED_RETWEETS_DETAIL" = "Ukrywa retweety Tweetów od kont, które cię zablokowały.";
@@ -90,6 +96,12 @@
 "ALWAYS_OPEN_SAFARI_TITLE" = "Używaj zewnętrznej przeglądarki";
 "ALWAYS_OPEN_SAFARI_DETAIL" = "Otwiera linki w Safari lub w przeglądarce domyślnej.";
 
+"BLOCK_LINK_TRACKING_TITLE" = "Blokuj śledzenie linków";
+"BLOCK_LINK_TRACKING_DETAIL" = "Otwiera linki bezpośrednio, z pominięciem t.co, bez zapytań do t.co w tle i bez identyfikatorów kliknięć reklam. Ostrzeżenia Twittera o niebezpiecznych linkach przestaną się pojawiać.";
+
+"STRIP_TRACKING_PARAMS_TITLE" = "Usuwaj parametry śledzące";
+"STRIP_TRACKING_PARAMS_DETAIL" = "Usuwa utm_ i inne znaczniki śledzące z otwieranych linków.";
+
 "SHARING_DOMAIN_TITLE" = "Domena udostępnianych linków";
 
 /*Tweets*/
@@ -99,6 +111,15 @@
 "LIKE_CONFIRM_TITLE" = "Potwierdzaj polubienia";
 "LIKE_CONFIRM_DETAIL" = "Pyta o potwierdzenie przed polubieniem Tweeta.";
 
+"SHOW_QUOTE_NUMBERS_TITLE" = "Pokazuj liczbę cytatów";
+"SHOW_QUOTE_NUMBERS_DETAIL" = "Pokazuje, ile cytatów i retweetów zebrał Tweet.";
+
+"SHOW_UNROUNDED_QUOTE_NUMBERS_TITLE" = "Pokazuj dokładną liczbę cytatów";
+"SHOW_UNROUNDED_QUOTE_NUMBERS_DETAIL" = "Pokazuje dokładną liczbę cytatów i retweetów, które zebrał Tweet. Długie liczby mogą się nie zmieścić na ekranie.";
+
+"POST_INTERACTIONS_COUNTS_TITLE" = "Cytaty: %@  Retweety: %@";
+"POST_INTERACTIONS_UNROUNDED_COUNTS_TITLE" = "Cytaty: %lld  Retweety: %lld";
+
 "USE_TENOR_GIFS_TITLE" = "Używaj GIF-ów z Tenora";
 "USE_TENOR_GIFS_DETAIL" = "Zamiast GIF-ów Twittera (GIPHY) używa Tenora, który ma większy wybór.";
 
@@ -107,6 +128,9 @@
 
 "SHOW_POLL_RESULTS_TITLE" = "Pokazuj wyniki ankiet przed głosowaniem";
 "SHOW_POLL_RESULTS_DETAIL" = "Dopisuje wyniki do opcji ankiety, zanim zagłosujesz, więc widzisz, jak głosowali inni.";
+
+"RESTORE_TWEET_LABELS_TITLE" = "Pokazuj źródło Tweetów";
+"RESTORE_TWEET_LABELS_DETAIL" = "Pokazuje, z jakiego klienta wysłano Tweeta.";
 
 "SHOW_ACCOUNT_LOCATION_TITLE" = "Pokazuj lokalizację konta";
 "SHOW_ACCOUNT_LOCATION_DETAIL" = "Pokazuje w stopce Tweeta lokalizację konta, które go opublikowało.";
@@ -124,6 +148,8 @@
 "HIDE_BOOKMARK_BUTTON_DETAIL" = "Usuwa z Tweetów przycisk dodawania do zakładek.";
 "HIDE_DOWNVOTE_BUTTON_TITLE" = "Ukryj negatywne oceny";
 "HIDE_DOWNVOTE_BUTTON_DETAIL" = "Usuwa z Tweetów przycisk negatywnej oceny.";
+"HIDE_MADE_ON_X_TITLE" = "Ukryj etykietę \"Made on X\"";
+"HIDE_MADE_ON_X_DETAIL" = "Usuwa z Tweetów etykietę \"Made on X\".";
 
 "DISABLE_SENSITIVE_TWEET_WARNINGS_TITLE" = "Bez ostrzeżeń o wrażliwych treściach";
 
@@ -143,14 +169,14 @@
 "SQUARE_AVATARS_TITLE" = "Kwadratowe zdjęcia profilowe";
 "SQUARE_AVATARS_DETAIL" = "Wszystkie zdjęcia profilowe stają się kwadratowe, jak u kont marek i w dawnym Twitterze.";
 
+"DEFAULT_REPLY_SORTING_TITLE" = "Domyślne sortowanie odpowiedzi";
+"DEFAULT_REPLY_SORTING_DETAIL" = "Wybierz domyślne sortowanie odpowiedzi dla wszystkich Tweetów.";
+
 "REPLY_SORTING_TITLE" = "Bez sortowania odpowiedzi";
-"REPLY_SORTING_DETAIL" = "Wyłącza sortowanie odpowiedzi w rozmowach pod Tweetami.";
+"REPLY_SORTING_DETAIL" = "Ukrywa przycisk sortowania odpowiedzi w rozmowach pod Tweetami.";
 
 "RESTORE_REPLY_CONTEXT_TITLE" = "Przywróć kontekst odpowiedzi";
 "RESTORE_REPLY_CONTEXT_DETAIL" = "Pokazuje w Tweetach, komu odpowiada autor.";
-
-"RESTORE_TWEET_LABELS_TITLE" = "Pokazuj źródło Tweetów";
-"RESTORE_TWEET_LABELS_DETAIL" = "Pokazuje, z jakiego klienta wysłano Tweeta.";
 
 /*Chat*/
 "HIDE_TYPING_INDICATOR_TITLE" = "Ukryj wskaźnik pisania";
@@ -181,6 +207,9 @@
 "HIDE_FOLLOW_BUTTON_TITLE" = "Bez przycisku Obserwuj w Tweetach";
 "HIDE_FOLLOW_BUTTON_DETAIL" = "Ukrywa przycisk Obserwuj w Tweetach.";
 
+"HIDE_MESSAGE_BUTTON_TITLE" = "Bez przycisku wiadomości w Tweetach";
+"HIDE_MESSAGE_BUTTON_DETAIL" = "Ukrywa przycisk wiadomości w Tweetach.";
+
 "RESTORE_FOLLOW_BUTTON_TITLE" = "Bez przycisku Subskrybuj";
 "RESTORE_FOLLOW_BUTTON_DETAIL" = "Ukrywa przycisk Subskrybuj w Tweetach i na profilach.";
 
@@ -201,6 +230,9 @@
 "DISABLE_VIDEO_CAPTIONS_TITLE" = "Bez napisów w filmach";
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "Duże zdjęcia";
+
+"DISABLE_DOUBLE_TAP_LIKE_TITLE" = "Wyłącz polubienie podwójnym stuknięciem";
+"DISABLE_DOUBLE_TAP_LIKE_DETAIL" = "Blokuje polubienie Tweeta przez podwójne stuknięcie filmu.";
 
 "RESTORE_VIDEO_TIMESTAMP_TITLE" = "Licznik czasu w filmach";
 "RESTORE_VIDEO_TIMESTAMP_DETAIL" = "Pokazuje czas odtwarzania w pełnoekranowym odtwarzaczu.";
@@ -224,6 +256,9 @@
 
 "DOWNLOAD_HIGHEST_QUALITY_TITLE" = "Zawsze pobieraj najwyższą jakość";
 "DOWNLOAD_HIGHEST_QUALITY_DETAIL" = "Pomija wybór jakości i od razu zapisuje najlepszy plik MP4.";
+
+"DOWNLOAD_ALL_VIDEOS_TITLE" = "Pobieraj wszystkie filmy";
+"DOWNLOAD_ALL_VIDEOS_DETAIL" = "Dodaje opcję pobrania wszystkich filmów z Tweeta naraz.";
 
 "UPLOAD_FULL_HD_VIDEOS_TITLE" = "Przesyłaj filmy w Full HD";
 "UPLOAD_FULL_HD_VIDEOS_DETAIL" = "Odblokowuje przesyłanie filmów w rozdzielczości 1080p.";
@@ -271,7 +306,11 @@
 
 /*Labs*/
 "REPLY_IN_WEBVIEW_TITLE" = "Odpowiadaj w widoku WWW";
-"REPLY_IN_WEBVIEW_DETAIL" = "Otwiera okno odpowiedzi w widoku WWW, żeby ominąć atestację aplikacji.";
+"REPLY_IN_WEBVIEW_DETAIL" = "Opcja awaryjna, gdy odpowiedzi się nie wysyłają. Odpowiadasz wtedy przez x.com zamiast w aplikacji.";
+
+"LIQUID_GLASS_TITLE" = "Włącz Liquid Glass";
+"LIQUID_GLASS_DETAIL" = "Włącza nowy interfejs X w stylu Liquid Glass. Jest eksperymentalny i może powodować problemy.";
+"LIQUID_GLASS_RESTART_ALERT_MESSAGE" = "Zmiana interfejsu Liquid Glass zacznie działać po ponownym uruchomieniu aplikacji.";
 
 /*Debug*/
 "FLEX_TWITTER_TITLE" = "Tryb debugowania";
@@ -290,8 +329,11 @@
 "FETCHING_PROGRESS_TITLE" = "Chwileczkę…";
 "DOWNLOAD_AS_GIF_OPTION_TITLE" = "Pobierz jako GIF";
 "DOWNLOAD_AS_MP4_OPTION_TITLE" = "Pobierz jako MP4";
+"DOWNLOAD_ALL_VIDEOS_OPTION_TITLE" = "Pobierz wszystkie filmy";
 
 /*App icon*/
+"APP_ICON_SETTINGS_MAC_ALERT_TITLE" = "Nie udało się zmienić ikony";
+"APP_ICON_SETTINGS_MAC_ALERT_MESSAGE" = "W systemie macOS nie da się zmieniać ikon. To ograniczenie Apple.";
 
 /*Copy profile info*/
 "COPY_PROFILE_INFO_MENU_OPTION_1" = "Kopiuj bio";
@@ -336,11 +378,20 @@
 "DIM_THEME_RESTART_ALERT_MESSAGE" = "Przyciemniony motyw zacznie działać po ponownym uruchomieniu aplikacji.";
 "DIM_THEME_RESTART_ALERT_RESTART_BUTTON" = "Uruchom ponownie";
 
+"HIDE_QUOTE_TWEETS_TITLE" = "Ukryj Tweety z cytatem";
+"HIDE_QUOTE_TWEETS_DETAIL" = "Ukrywa Tweety z cytatem na osi czasu.";
+
+"HIDE_RETWEETS_TITLE" = "Ukryj retweety";
+"HIDE_RETWEETS_DETAIL" = "Ukrywa retweety na osi czasu.";
+
 "HIDE_VERIFIED_TWEETS_TITLE" = "Ukryj Tweety zweryfikowanych kont";
 "HIDE_VERIFIED_TWEETS_DETAIL" = "Ukrywa Tweety zweryfikowanych kont na osi czasu i w odpowiedziach, chyba że autor odpowiedział im w tym samym wątku albo obserwujesz dane konto.";
 
 "HIDE_TWEET_BUTTON_TITLE" = "Ukryj przycisk tworzenia Tweeta";
 "HIDE_TWEET_BUTTON_DETAIL" = "Usuwa z paska nawigacji przycisk tworzenia Tweeta.";
+
+"HIDE_QUICK_COMPOSE_TITLE" = "Ukryj szybkie tworzenie Tweeta";
+"HIDE_QUICK_COMPOSE_DETAIL" = "Usuwa z paska nawigacji przycisk szybkiego tworzenia Tweeta (tylko w Liquid Glass).";
 
 /*Deprecated*/
 "MODERN_SETTINGS_PLACEHOLDER_TEXT" = "Na razie nic tu nie ma";
@@ -408,6 +459,18 @@
 /* Presets — settings import and export */
 "SETTINGS_EXPORT_TITLE" = "Eksportuj ustawienia";
 "SETTINGS_IMPORT_TITLE" = "Importuj ustawienia";
+"SETTINGS_RESET_TITLE" = "Resetuj ustawienia";
+
+"SETTINGS_RESET_CONFIRM_TITLE" = "Zresetować wszystkie ustawienia?";
+"SETTINGS_RESET_CONFIRM_MESSAGE" = "Wszystkie ustawienia NeoFreeBird wrócą do wartości domyślnych.";
+"SETTINGS_RESET_CONFIRM_BUTTON" = "Resetuj";
+"SETTINGS_RESET_SUCCESS_TITLE" = "Zresetowano ustawienia";
+"SETTINGS_RESET_SUCCESS_MESSAGE" = "Wszystkie ustawienia wróciły do wartości domyślnych. Uruchom aplikację ponownie, żeby wszystkie zmiany zaczęły działać.";
+
+"CUSTOM_SEND_SOUND_TITLE" = "Importuj dźwięk wysyłania";
+"CUSTOM_SEND_SOUND_DEFAULT" = "Nie wybrano własnego dźwięku";
+"CUSTOM_SEND_SOUND_FAILED_TITLE" = "Import dźwięku wysyłania nie powiódł się";
+"CUSTOM_SEND_SOUND_TOO_LONG" = "Wybrany dźwięk jest za długi. Może trwać najwyżej 7 sekund.";
 
 "SETTINGS_EXPORT_FAILED_TITLE" = "Eksport nie powiódł się";
 "SETTINGS_EXPORT_WRITE_FAILED" = "Nie udało się utworzyć pliku z ustawieniami.";
@@ -437,3 +500,6 @@
 /* Undo Duration Labels (Added for TweetsSettingsViewController) */
 "GENERIC_OFF_LABEL" = "Wyłączone";
 "SUBSCRIPTION_UNDO_SEND_DURATION_LABEL" = "%ld sekund";
+
+"GITHUB_DOWNLOAD_WARNING_TITLE" = "Witaj!";
+"GITHUB_DOWNLOAD_WARNING_MESSAGE" = "Upewnij się, że NeoFreeBird pochodzi z naszego oficjalnego GitHuba. Nie pomożemy z problemami w plikach IPA z innych źródeł, a przy takiej wersji nie masz pewności, że jest wolna od szkodliwego kodu. Jeśli masz pytania, załóż zgłoszenie (issue) na GitHubie.";
